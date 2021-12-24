@@ -1,13 +1,28 @@
 <?xml version="1.0"?>
 <Targets>
   <id>1</id>
-  <name>Corinna Brown</name>
-  <email>wuecnsrofoef@protonmail.com</email>
-  <ip>42.54.03.436</ip>
-  <password>FLAG:you-did-this</password>
+  <name>James Cord</name>
+  <email>rncmiurejjoe@protonmail.com</email>
+  <ip>32.54.96.443</ip>
+  <password>fnfjgngegfdbfhv(do not submit)</password>
   <id>2</id>
+  <name>Jake hole</name>
+  <email>mmijmke@protonmail.com</email>
+  <ip>34.89.96.443</ip>
+  <password>fnfjg4refdbfhv(do not submit)</password>
+  <id>3</id>
   <name>James Cord</name>
   <email>rncmiurejjoe@protonmail.com</email>
   <ip>34.54.96.443</ip>
   <password>fnfjgngegfdbfhv(do not submit)</password>
+  <id>4</id>
+  <name>Kory names</name>
+  <email>qfttghvjf@protonmail.com</email>
+  <ip>56.54.96.443</ip>
+  <password>fnfjgngegfdbfhv(do not submit)</password>
+  <id>5</id>
+  <name>Corinna Brown</name>
+  <email>wuecnsrofoef@protonmail.com</email>
+  <ip>42.54.03.436</ip>
+  <password>FLAG:you-did-this</password>
 </Targets>
